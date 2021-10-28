@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Roy-Praveen
 - 👀 I’m interested in Comp Bio and Comp Chem
 - 🌱 I’m currently learning Integrative Modelling and ML
-- 💞️ I’m looking to collaborate on .....
+- 💞️ I’m looking to collaborate on Structural Biology and Medicinal Chemistry
 - 📫 How to reach me- roy.praveen18495@gmail.com
 
 <!---

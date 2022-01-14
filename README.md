@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Roy-Praveen
 - 👀 I’m interested in Coding and Cool Gadgets
 - 🌱 I’m currently learning Integrative Modelling and ML
-- 💞️ I’m looking to collaborate on Robotics and AI
+- 💞️ I’m looking to collaborate on Robotics or Data Analytics
 - 📫 How to reach me- roy.praveen18495@gmail.com
 
 <!---

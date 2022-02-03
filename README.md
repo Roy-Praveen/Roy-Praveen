@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roy-Praveen
+- 👋 Hi, I’m Praveen Roy
 - 👀 I’m interested in Coding and Programming
 - 🌱 I’m currently learning Integrative Modelling and ML
 - 💞️ I’m looking to collaborate on Data Analytics, Computer Vision and Robotics

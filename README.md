@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Praveen Roy
 - 👀 I’m interested in Coding and Programming
 - 🌱 I’m currently learning Integrative Modelling and ML
-- 💞️ I’m looking to collaborate on Data Analytics, Computational Biology and Bioinformatics
+- 💞️ I’m looking to collaborate on Data Analytics, Artificial Intelligence and Automation
 - 📫 How to reach me- roy.praveen18495@gmail.com
 
 <!---
